@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "caf": "^9.0.0",
+    "express": "^4.17.1",
+    "get-stdin": "^7.0.0",
+    "minimist": "^1.2.0",
+    "node-fetch": "^2.6.0",
+    "node-static-alias": "^1.1.2",
+    "readable-stream": "^3.5.0",
+    "sqlite3": "^4.1.1",
+    "stream": "0.0.2",
+    "util": "^0.12.1"
+  }
+}
